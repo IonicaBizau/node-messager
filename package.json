@@ -1,0 +1,33 @@
+{
+  "name": "messager",
+  "version": "1.0.0",
+  "description": "Inter-process communication made simple.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "abs": "^1.0.0",
+    "sliced": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/node-messager.git"
+  },
+  "keywords": [
+    "process",
+    "communication",
+    "events"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-messager/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-messager#readme"
+}
