@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-messager/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-messager#readme"
+  "homepage": "https://github.com/IonicaBizau/node-messager#readme",
+  "blah": {
+    "h_img": "http://i.imgur.com/jfmnDtz.png"
+  }
 }

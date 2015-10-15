@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+[![messager](http://i.imgur.com/jfmnDtz.png)](#)
+
 # messager [![Donate now][donate-now]][paypal-donations]
 
 Inter-process communication made simple.
