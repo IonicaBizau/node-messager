@@ -1,8 +1,8 @@
 [![messager](http://i.imgur.com/jfmnDtz.png)](#)
 
-# messager [![Support this project][donate-now]][paypal-donations]
+# messager [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/messager.svg)](https://www.npmjs.com/package/messager) [![Downloads](https://img.shields.io/npm/dt/messager.svg)](https://www.npmjs.com/package/messager) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Inter-process communication made simple.
+> Inter-process communication made simple.
 
 ## Installation
 
