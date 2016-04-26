@@ -1,6 +1,6 @@
 {
   "name": "messager",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Inter-process communication made simple.",
   "main": "lib/index.js",
   "directories": {
@@ -32,5 +32,16 @@
   "homepage": "https://github.com/IonicaBizau/node-messager#readme",
   "blah": {
     "h_img": "http://i.imgur.com/jfmnDtz.png"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
