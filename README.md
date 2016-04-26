@@ -1,16 +1,20 @@
+
 [![messager](http://i.imgur.com/jfmnDtz.png)](#)
 
 # messager [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/messager.svg)](https://www.npmjs.com/package/messager) [![Downloads](https://img.shields.io/npm/dt/messager.svg)](https://www.npmjs.com/package/messager) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Inter-process communication made simple.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save messager
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -39,7 +43,8 @@ server.on("ready", function () {
 });
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Server(path)`
 Initializes the `Messager` server.
@@ -86,13 +91,13 @@ Emits a specified event (first argument) and data (the other arguments) to the s
 
 Usage: `client.emit("myEvent", { some: "data" }, 42)`
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
