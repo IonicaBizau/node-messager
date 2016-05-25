@@ -1,6 +1,6 @@
 {
   "name": "messager",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Inter-process communication made simple.",
   "main": "lib/index.js",
   "directories": {
@@ -41,6 +41,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
