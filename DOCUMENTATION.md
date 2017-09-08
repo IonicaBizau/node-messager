@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Initializes the `Messager` server.
 
 #### Params
+
 - **String** `path`: The path where the local socket server is listening for connections.
 
 #### Return
@@ -24,12 +25,14 @@ Initializes the `Messager` server.
 Closes the `Messager` server.
 
 #### Params
+
 - **Function** `callback`: The callback function.
 
 ### `Client(path)`
 Creates a `Messager` client instance.
 
 #### Params
+
 - **String** `path`: The path where the local socket server is listening for connections.
 
 #### Return
